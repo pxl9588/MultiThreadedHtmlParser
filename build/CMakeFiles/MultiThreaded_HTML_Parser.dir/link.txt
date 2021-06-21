@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -pthread -g CMakeFiles/MultiThreaded_HTML_Parser.dir/src/main.cpp.o CMakeFiles/MultiThreaded_HTML_Parser.dir/src/URLParser.cpp.o -o MultiThreaded_HTML_Parser  -lcurl ../lib/libtidys.a 

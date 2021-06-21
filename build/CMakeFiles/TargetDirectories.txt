@@ -1,0 +1,3 @@
+/home/builduser/Documents/MultiThreaded_HTML_Parser/build/CMakeFiles/edit_cache.dir
+/home/builduser/Documents/MultiThreaded_HTML_Parser/build/CMakeFiles/rebuild_cache.dir
+/home/builduser/Documents/MultiThreaded_HTML_Parser/build/CMakeFiles/MultiThreaded_HTML_Parser.dir
